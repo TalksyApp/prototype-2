@@ -3,5 +3,7 @@ A platform where conversations flow naturally, connections feel real, and every 
 
 ## Prototype2
 A fork of prototype 1 but will get and accept commits only for apis and backend
-Please refer to the (Prototype)[https://github.com/TalksyApp/prototype] where we are building the forefront of our application.
+Please refer to the [Prototype](https://github.com/TalksyApp/prototype) where we are building the forefront of our application.
 
+### Waitlist is live, what are you waiting for?
+> Go to `https://talksy-info.vercel.app` and get yourself registered so that you can get to enjoy and explore our product before the rest
